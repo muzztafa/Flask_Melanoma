@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/react/static/css/main.1622cd57.chunk.css",
+    "main.js": "/static/react/static/js/main.0e9d369d.chunk.js",
+    "main.js.map": "/static/react/static/js/main.0e9d369d.chunk.js.map",
+    "runtime-main.js": "/static/react/static/js/runtime-main.1759b8f6.js",
+    "runtime-main.js.map": "/static/react/static/js/runtime-main.1759b8f6.js.map",
+    "static/js/2.17c0d93a.chunk.js": "/static/react/static/js/2.17c0d93a.chunk.js",
+    "static/js/2.17c0d93a.chunk.js.map": "/static/react/static/js/2.17c0d93a.chunk.js.map",
+    "static/js/3.232804d6.chunk.js": "/static/react/static/js/3.232804d6.chunk.js",
+    "static/js/3.232804d6.chunk.js.map": "/static/react/static/js/3.232804d6.chunk.js.map",
+    "index.html": "/static/react/index.html",
+    "static/css/main.1622cd57.chunk.css.map": "/static/react/static/css/main.1622cd57.chunk.css.map",
+    "static/js/2.17c0d93a.chunk.js.LICENSE.txt": "/static/react/static/js/2.17c0d93a.chunk.js.LICENSE.txt",
+    "static/media/research.css": "/static/react/static/media/Mask_Group_1.e2030c3d.png",
+    "static/media/services.css": "/static/react/static/media/bg1.e78abc5d.png",
+    "static/media/fordoctors.css": "/static/react/static/media/doctorimage.52be5027.png",
+    "static/media/logo.6ce24c58.svg": "/static/react/static/media/logo.6ce24c58.svg",
+    "static/media/frontpage.css": "/static/react/static/media/path-1.634da878.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1759b8f6.js",
+    "static/js/2.17c0d93a.chunk.js",
+    "static/css/main.1622cd57.chunk.css",
+    "static/js/main.0e9d369d.chunk.js"
+  ]
+}
